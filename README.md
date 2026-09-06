@@ -16,12 +16,11 @@
 
 ## 🎯 Basic Details
 
-### Team Name: Techies
 
 ### Team Members
 
-- **Team Lead:** Alok - SCMS College
-- **Member 2:** Albin - SCMS College
+- **Team Lead:** Ifa- SCMS College
+- **Member 2:** Nafla - SCMS College
 
 ### Project Description
 
